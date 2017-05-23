@@ -268,7 +268,7 @@
     </param>
   </block>
   <block>
-    <key>freq_xlating_fir_filter_xxx</key>
+    <key>gr_freq_xlating_fir_filter_xxx</key>
     <param>
       <key>id</key>
       <value>xlating_fir_filter</value>
@@ -613,7 +613,7 @@
     </param>
   </block>
   <block>
-    <key>analog_am_demod_cf</key>
+    <key>blks2_am_demod_cf</key>
     <param>
       <key>id</key>
       <value>blks2_am_demod_cf_0</value>
@@ -648,7 +648,7 @@
     </param>
   </block>
   <block>
-    <key>blocks_multiply_const_vxx</key>
+    <key>gr_multiply_const_vxx</key>
     <param>
       <key>id</key>
       <value>gr_multiply_const_vxx_1</value>
@@ -769,7 +769,7 @@
     </param>
   </block>
   <block>
-    <key>analog_agc2_xx</key>
+    <key>gr_agc2_xx</key>
     <param>
       <key>id</key>
       <value>gr_agc2_xx_0</value>
@@ -812,7 +812,7 @@
     </param>
   </block>
   <block>
-    <key>rational_resampler_xxx</key>
+    <key>blks2_rational_resampler_xxx</key>
     <param>
       <key>id</key>
       <value>blks2_rational_resampler_xxx_1</value>
